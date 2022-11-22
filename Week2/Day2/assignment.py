@@ -39,20 +39,34 @@
 #print(studentList[2])
 
     #5d print the entire list not in brackets [student1, student2, etc...]
-studentList = ["Vinny","Adam","Cory","Ethan","Joe"]
-print(*studentList)    
+#studentList = ["Vinny","Adam","Cory","Ethan","Joe"]
+#print(*studentList)    
 
     #5e add "is cool" to the end of each name
+    #studentsList = ["Vinny","Adam","Cory","Ethan","Joe"]
+#for student in studentsList:
+    #print(student + " is cool")
 
     #5f if the students name is your name add "IT ME!!" to the end
-
+    #studentsList = ["Vinny","Adam","Cory","Ethan","Joe"]
+#for student in studentsList:
+    #print(student + " is cool")
+    
     #5g if you are not in the list print "I guess I'm not cool"
-
+#studentsList = ["Vinny","Adam","Cory","Ethan","Joe"]
+#for student in studentsList:
+#    print(student + " is cool")
     #5h list some methods to remove things from a list
+
+    #MethodsofRemoval = .pop .clear .del
+
+
 
 
 #6 Create a dictionary with keys "Digital Crafts" ,"Instructor", "TA" and values "Bootcamp" ,"Joe" ,"Ethan"
 
+#Web Dev = {"Digital Crafts" : "Bootcamp", "Instructor" : "Joe" , "TA" : "Ethan"}
+    
     #6a return the value of "Digital Crafts"
 
 
